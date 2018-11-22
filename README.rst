@@ -10,6 +10,11 @@ Docs: https://pythonhosted.org/mord/
 
 Github repo: http://github.com/fabianp/mord
 
+changes to original 
+===================
+
+- Additional link functions to support different types of OR modelling
+- log-space calculations
 
 References
 ----------
